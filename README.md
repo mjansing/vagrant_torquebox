@@ -25,6 +25,7 @@ Deploy your torquebox application to `/opt/torquebox/jboss/standalone/deployment
 
 * Ubuntu 12.04.4 LTS
 * PostgresSQL (user: `vagrant`, password: `vagrant)
+* OpenJDK 7
 * [TorqueBox 3.1.0][torquebox-31]
 * [TorqueBox Management Console (backstage)][backstage-url]
 
